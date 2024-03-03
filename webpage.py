@@ -1,0 +1,1 @@
+print('jkdm,x k,msd zx')
